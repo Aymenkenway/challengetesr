@@ -1,0 +1,229 @@
+
+body
+	{
+		background: #ffffff;
+		font-family: 'Lato', sans-serif;
+		font-weight: 300;
+		font-size: 14px;
+		overflow-x: hidden; 
+	}
+
+.col-md-2, .main-col4
+	{   
+		padding: 0;
+		margin: 0;
+	}
+
+.main-1
+	{
+		position: relative;
+		height: 60px;
+	}
+
+.title h2
+	{   text-align: center;
+		color: #85e041;
+		font-size: 40px;
+		font-weight: bold;
+		letter-spacing: 4px;
+		padding-bottom: 60px;
+	}
+
+#maincountdown
+	{
+  		background: linear-gradient(to right, #FF512F 7%, #cf1165 93%);
+  		color: #ffffff;
+		text-align: center;
+		min-height: 900px;
+		padding: 140px 0 ;
+	}
+#maincountdown h1
+	{
+		font-size: 80px;
+		font-weight: 700;
+	}
+#maincountdown h2
+	{
+		font-weight: 300;
+		font-size: 18px;
+		padding-bottom: 40px;
+	}
+#maincountdown small
+	{
+		font-size: 80px;
+		color: #000;
+		font-weight: bold;
+	}
+ul.maincountdown
+	{
+		margin: 0;
+		padding: 0;
+	}
+ul.maincountdown span 
+	{
+		font-size: 40px;
+		text-align: center;
+		display: inline-block;
+	}
+ul.maincountdown  li
+	{
+	border-right: 1px solid #ffffff;
+	font-weight: bold;
+	font-size: 18px;
+	display:inline-block;
+	padding: 0px 40px 0px 40px;
+	}
+ul.maincountdown li:last-child
+	{
+		border-right: none;
+	}
+ul.maincountdown li h3
+	{
+		font-size: 18px;
+		font-weight: 300;
+	}
+#maincountdown .form-control
+	{
+		border: none;
+		border-radius: 0px;
+		box-shadow: none;
+		height: 50px;
+		margin-top: 60px;
+		
+	}
+#maincountdown input[type="submit"]
+	{
+		background: #4aed4c;
+		color: #ffffff;
+		font-size: 16px;
+	}
+
+.transferfees
+	{
+		padding-top: 100px;
+		padding-bottom: 100px;
+	}
+.transferfees .fa
+	{  
+	     border-radius: 50%;
+		border: 1px solid #4aed4c;
+		font-size: 30px;
+		width: 60px;
+		line-height: 60px;
+		text-align: center;
+		color: #4aed4c;
+	}
+
+
+.transfer
+  {
+    border-top: 1px solid white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+.transfer .border_right
+  {
+    border-right: 1px solid white;
+  }
+.transfer .border_bottom
+  {
+   border-bottom: 1px solid white;
+  }
+.transfer h2
+  {
+    font-weight: 600;
+    padding-bottom: 40px;
+  }
+.transfer .club
+  {
+    padding: 50px 0 50px 0;
+  }
+
+.transfer img
+  {
+  	padding-right: 20px;
+    max-width: 100%;
+    
+  }
+
+.contact
+	{
+  		background: linear-gradient(to right , #242e4d 15%, #86969c 85%);
+		color: #ffffff;
+		text-align: center;
+		padding-top: 100px;
+		padding-bottom: 100px;
+
+	}
+.contact .form-control
+	{
+		background-color: transparent;
+		border: none;
+		border-bottom: 1px solid grey;
+		
+		
+	}
+
+.contact input[type="submit"]
+	{
+		border: 2px solid grey;
+		color: #ffffff;
+		font-weight: bold;
+		
+	}
+.contact address
+	{
+		padding-top: 60px;
+		text-align: left;
+	}
+.contact address p
+	{
+		font-size: 16px;
+        font-style: italic;		
+	}
+.contact address .fa
+	{
+		border: 1px solid #999;
+		color: #ffffff;
+		font-size: 20px;
+		width: 60px;
+		height: 60px;
+		line-height: 60px;
+		text-align: center;
+		margin-right: 20px;
+		margin-bottom: 20px;
+		margin-left: 0px;
+	}
+
+footer
+	{   font-size: 16px;
+		padding: 30px 0;
+	}
+
+.copyrights {
+	display: inline-block;
+	
+}
+
+.footer_icon
+  {
+  	display: inline-block;
+  }
+.footer_icon li
+  {
+    display: inline-block;
+    list-style: none;
+    position: relative;
+  }
+.footer_icon li a
+  {
+   color:black;
+    width: 30px;
+    height: 30px;
+    text-align: center;  
+  }
+  .contact input
+	{
+		height: 55px;
+	}
+
